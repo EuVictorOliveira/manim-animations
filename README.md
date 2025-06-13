@@ -1,4 +1,4 @@
-# 📽 Animações com Python Manim
+# Animações com Python Manim
 
 Projeto pessoal com foco na criação de animações matemáticas e computacionais utilizando a biblioteca [Manim](https://docs.manim.community/), que permite gerar vídeos vetoriais de alta qualidade por meio de scripts em Python.
 
